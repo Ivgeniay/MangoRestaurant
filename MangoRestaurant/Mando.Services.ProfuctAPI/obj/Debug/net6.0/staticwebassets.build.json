@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nbNU+8MPk8NKksi4DSS8ncdhjx3hIf5/ssH3EPTbuD0=",
+  "Source": "Mando.Services.ProductAPI",
+  "BasePath": "_content/Mando.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
