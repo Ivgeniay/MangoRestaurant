@@ -12,6 +12,8 @@ namespace Mando.Services.ProductAPI.DbContexts
         }
 
         public DbSet<Product> Products { get; set; }
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
