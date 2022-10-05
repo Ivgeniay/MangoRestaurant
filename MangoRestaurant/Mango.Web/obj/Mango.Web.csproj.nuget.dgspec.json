@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Файлы\\Projects\\.NET\\ASP\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {}
+    "D:\\Programming\\GitHub\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {}
   },
   "projects": {
-    "F:\\Файлы\\Projects\\.NET\\ASP\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {
+    "D:\\Programming\\GitHub\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Файлы\\Projects\\.NET\\ASP\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
+        "projectUniqueName": "D:\\Programming\\GitHub\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
         "projectName": "Mango.Web",
-        "projectPath": "F:\\Файлы\\Projects\\.NET\\ASP\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
-        "packagesPath": "C:\\Users\\motle\\.nuget\\packages\\",
-        "outputPath": "F:\\Файлы\\Projects\\.NET\\ASP\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\obj\\",
+        "projectPath": "D:\\Programming\\GitHub\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
+        "packagesPath": "C:\\Users\\Rupert\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\GitHub\\MangoRestaurant\\MangoRestaurant\\Mango.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\ProgramFales (x69)\\VisualStudio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\motle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rupert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
